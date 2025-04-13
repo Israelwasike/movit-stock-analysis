@@ -19,7 +19,7 @@ To set up the project locally, follow these steps: <br>
 * Ensure you have Tableau installed for dashboard visualization. <br>
 ### Usage
 Guide on how to use the project, including running analyses, generating visualizations, or using the dashboard.<br>
-* To analyze movit stock analysis, open the relevant Jupyter notebook in the `notebooks/` directory and run the cells. To view the interactive dashboard, open [Tableau public](https://public.tableau.com/app/profile/israel.wasike/viz/movitstockmovementanalysis/Dashboard1)
+* To analyze movit stock analysis, open the relevant Jupyter notebook in the `notebooks/` directory and run the cells. To view the interactive dashboard, open [Tableau]([https://public.tableau.com/app/profile/israel.wasike/viz/movitstockmovementanalysis/Dashboard1](https://public.tableau.com/views/movitstockmovementanalysis/DASHBOARD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 ### Data
 Information about the datasets used, including their sources and any preprocessing steps.<br>
 The project uses movit sales data for the month February 2025. Data was cleaned using Python, and visualizations were done in Tableau Desktop
